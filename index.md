@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Products Sync for WooCommerce
 
 You can use the [editor on GitHub](https://github.com/wpcoderx22/wc-products-sync/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
