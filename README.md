@@ -6,6 +6,7 @@ Products Sync for WooCommerce plugin can move products from one WooCommerce Stor
 It is the perfect solution for separate WooCommerce store, move products from store A to store B.
 
 ### Features
+
 - Say NO with csv import/export.
 - Support all product types, move all variations.
 - Move product attributes.
@@ -16,5 +17,9 @@ It is the perfect solution for separate WooCommerce store, move products from st
 - Support move image and gallery images shortcodes in product content.
 - Unlimit stores.
 - Update existing products (optional).
+- Unlimited replace text.
+- Custom query to move products.
 
 ** Only move data and images of selected products. **
+
+
