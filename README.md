@@ -1,6 +1,6 @@
 # Products Sync for WooCommerce
 
-Say no with server erorr timeout when import/export products.
+Say no with server error timeout when import/export products.
 
 Products Sync for WooCommerce plugin can move products from one WooCommerce Store to the other WooCommerce stores(shops).
 It is the perfect solution for separate WooCommerce store, move products from store A to store B.
@@ -16,7 +16,7 @@ It is the perfect solution for separate WooCommerce store, move products from st
 - Move all product meta data.
 - Move all product thumbnail and gallery images.
 - Support move image and gallery images shortcodes in product content.
-- Unlimit stores.
+- Unlimited stores.
 - Update existing products (optional).
 - Unlimited replace text.
 - Custom query to move products.
